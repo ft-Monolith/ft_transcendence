@@ -164,4 +164,4 @@ EMAIL_APP_PASSWORD=...
 
 ## Auteurs
 
-Projet réalisé par l'équipe **ft-Monolith** dans le cadre du tronc commun de l'École 42.
+Projet réalisé par Qordoux, Maeferre, Rasamad dans le cadre du tronc commun de l'École 42.
