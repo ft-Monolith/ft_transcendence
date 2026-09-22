@@ -160,7 +160,6 @@ EMAIL_APP_PASSWORD=...
 - `JWT_SECRET` : secret de signature des tokens (générer une chaîne aléatoire ≥ 64 caractères)
 - `EMAIL_USER` / `EMAIL_APP_PASSWORD` : compte SMTP utilisé pour envoyer les codes 2FA (mot de passe d'application Gmail)
 
-> ⚠️ Le fichier `.env` ne doit **jamais** être commit (il contient des secrets). Il est déjà listé dans `.gitignore`.
 
 ## Auteurs
 
